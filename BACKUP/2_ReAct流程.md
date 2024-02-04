@@ -10,4 +10,6 @@ ReAct是Reasoning and Acting缩写，意思是大模型可以根据逻辑推理�
 - **行动(Act)**： 行动代表大模型认为需要采取的具体行为。行动一般由两个部分构成：动作和目标，这在编程中对应着API名称和其输入参数。大模型的一大优点在于，它可以根据思考的结果，选择合适的API并生成所需的参数。这确保了ReAct框架在执行方面的实用性。
 - **观察(Obs)**： 观察代表大模型如何获取外部输入。它就像大模型的感知系统，将环境的反馈信息同步给大模型，帮助它进一步进行分析或者决策。
 
+[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+
 来源：https://juejin.cn/post/7259018705786339385
