@@ -9,3 +9,4 @@ GPTCache 通过 embedding 算法将查询问题转换为向量并使用向量数
 通过上述流程，GPTCache 能够从缓存中寻找并召回相似或相关查询。
 ![image](https://github.com/humyna/gitblog/assets/2505439/3e6bcfed-9f14-4435-a0d6-1b6ef7e6c61f)
 
+https://zilliz.com.cn/what-is-gptcache
