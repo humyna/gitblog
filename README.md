@@ -2,23 +2,29 @@
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [GPTCache 的工作原理](https://github.com/humyna/gitblog/issues/16)--2024-03-21
 - [如何使用EP提高英语能力？](https://github.com/humyna/gitblog/issues/15)--2024-03-20
 - [202403阅读笔记](https://github.com/humyna/gitblog/issues/14)--2024-03-20
 - [普通人为什么要尽快提前还贷？](https://github.com/humyna/gitblog/issues/13)--2024-03-11
 - [TA说之赚钱](https://github.com/humyna/gitblog/issues/12)--2024-03-10
-- [使用Mac的【照片】app管理iPhone照片](https://github.com/humyna/gitblog/issues/11)--2024-02-28
 ## 2024
 - [如何使用Github Issues搭建个人博客？](https://github.com/humyna/gitblog/issues/1)--2024-02-01
 ## AI
+- [GPTCache 的工作原理](https://github.com/humyna/gitblog/issues/16)--2024-03-21
 - [字节AI应用](https://github.com/humyna/gitblog/issues/10)--2024-02-27
 - [AI提示词汇总](https://github.com/humyna/gitblog/issues/9)--2024-02-27
 - [初识AI Agent](https://github.com/humyna/gitblog/issues/4)--2024-02-04
 - [AI时代，个人现在如何行动？](https://github.com/humyna/gitblog/issues/3)--2024-02-04
+<details><summary>显示更多</summary>
+
 - [ReAct流程](https://github.com/humyna/gitblog/issues/2)--2024-02-04
+</details>
+
 ## 图说
 - [TA说之赚钱](https://github.com/humyna/gitblog/issues/12)--2024-03-10
 - [图说2024](https://github.com/humyna/gitblog/issues/8)--2024-02-20
 ## 学习总结
+- [GPTCache 的工作原理](https://github.com/humyna/gitblog/issues/16)--2024-03-21
 - [如何使用EP提高英语能力？](https://github.com/humyna/gitblog/issues/15)--2024-03-20
 ## 工具
 - [使用Mac的【照片】app管理iPhone照片](https://github.com/humyna/gitblog/issues/11)--2024-02-28
