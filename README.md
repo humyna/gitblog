@@ -2,21 +2,22 @@
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [AI Agent 实际落地的两个瓶颈](https://github.com/humyna/gitblog/issues/23)--2024-03-29
 - [AI Agent 在开发领域中的使用](https://github.com/humyna/gitblog/issues/22)--2024-03-28
 - [AI Agent目前的局限以及商业方向](https://github.com/humyna/gitblog/issues/21)--2024-03-28
 - [LangChain 框架核心组件概览](https://github.com/humyna/gitblog/issues/20)--2024-03-28
 - [AI Agent 开发框架 ModelScope-Agent](https://github.com/humyna/gitblog/issues/19)--2024-03-28
-- [掌握Reactor Core实现响应式编程](https://github.com/humyna/gitblog/issues/18)--2024-03-26
 ## 2024
 - [如何使用Github Issues搭建个人博客？](https://github.com/humyna/gitblog/issues/1)--2024-02-01
 ## AI
+- [AI Agent 实际落地的两个瓶颈](https://github.com/humyna/gitblog/issues/23)--2024-03-29
 - [AI Agent 在开发领域中的使用](https://github.com/humyna/gitblog/issues/22)--2024-03-28
 - [AI Agent目前的局限以及商业方向](https://github.com/humyna/gitblog/issues/21)--2024-03-28
 - [LangChain 框架核心组件概览](https://github.com/humyna/gitblog/issues/20)--2024-03-28
 - [AI Agent 开发框架 ModelScope-Agent](https://github.com/humyna/gitblog/issues/19)--2024-03-28
-- [GPTCache 的工作原理](https://github.com/humyna/gitblog/issues/16)--2024-03-21
 <details><summary>显示更多</summary>
 
+- [GPTCache 的工作原理](https://github.com/humyna/gitblog/issues/16)--2024-03-21
 - [字节AI应用](https://github.com/humyna/gitblog/issues/10)--2024-02-27
 - [AI提示词汇总](https://github.com/humyna/gitblog/issues/9)--2024-02-27
 - [初识AI Agent](https://github.com/humyna/gitblog/issues/4)--2024-02-04
