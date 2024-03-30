@@ -61,12 +61,12 @@ public class BloomFilter {
         }
     }
 
-         public static void main(String[] args) {
-            String value = "test";
-             BloomFilter filter = new BloomFilter();
-            System.out.println(filter.contains(value));
-            filter.add(value);
-            System.out.println(filter.contains(value));
-         }
+    public static void main(String[] args) {
+        String value = "test";
+        BloomFilter filter = new BloomFilter();
+        System.out.println(filter.contains(value));
+        filter.add(value);
+        System.out.println(filter.contains(value));
+    }
 }
 ````
