@@ -2,11 +2,11 @@
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [202405阅读笔记](https://github.com/humyna/gitblog/issues/28)--2024-05-22
+- [如何应对公安机关的讯问套路](https://github.com/humyna/gitblog/issues/27)--2024-05-22
+- [[代码重构]使用Java多态和泛型重构一个业务场景的实现](https://github.com/humyna/gitblog/issues/26)--2024-04-28
 - [20240330-earthworm第50课打卡](https://github.com/humyna/gitblog/issues/25)--2024-03-30
 - [Java实现布隆过滤器](https://github.com/humyna/gitblog/issues/24)--2024-03-30
-- [AI Agent 实际落地的两个瓶颈](https://github.com/humyna/gitblog/issues/23)--2024-03-29
-- [AI Agent 在开发领域中的使用](https://github.com/humyna/gitblog/issues/22)--2024-03-28
-- [AI Agent目前的局限以及商业方向](https://github.com/humyna/gitblog/issues/21)--2024-03-28
 ## 2024
 - [20240330-earthworm第50课打卡](https://github.com/humyna/gitblog/issues/25)--2024-03-30
 - [如何使用Github Issues搭建个人博客？](https://github.com/humyna/gitblog/issues/1)--2024-02-01
@@ -40,9 +40,12 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [常用开发工具](https://github.com/humyna/gitblog/issues/6)--2024-02-19
 - [开源软件](https://github.com/humyna/gitblog/issues/5)--2024-02-18
 ## 开发笔记
+- [[代码重构]使用Java多态和泛型重构一个业务场景的实现](https://github.com/humyna/gitblog/issues/26)--2024-04-28
 - [开发笔记-QA机器人接入AI助手总结](https://github.com/humyna/gitblog/issues/17)--2024-03-21
 ## 生活
+- [如何应对公安机关的讯问套路](https://github.com/humyna/gitblog/issues/27)--2024-05-22
 - [普通人为什么要尽快提前还贷？](https://github.com/humyna/gitblog/issues/13)--2024-03-11
 ## 碎片阅读
+- [202405阅读笔记](https://github.com/humyna/gitblog/issues/28)--2024-05-22
 - [202403阅读笔记](https://github.com/humyna/gitblog/issues/14)--2024-03-20
 - [2402阅读笔记](https://github.com/humyna/gitblog/issues/7)--2024-02-20
