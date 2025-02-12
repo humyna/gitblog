@@ -10,6 +10,9 @@ OpenAI 的 RLHF 算法大名鼎鼎，它基于人类反馈，通过奖励建模�
 * 资源需求上，GRPO 对大规模语言模型更友好，资源需求低；RLHF 则需要大量人类标注数据和计算资源。
 * 模型性能上，GRPO 在特定任务（如数学推理）中解题准确率提升显著；RLHF 生成的输出更符合人类偏好，能减少有害内容生成。
 
-ps: GRPO=Group Relative Policy Optimization
+
+RLHF=Reinforcement Learning with Human Feedback
+GRPO=Group Relative Policy Optimization
+
 
 来源：https://mp.weixin.qq.com/s/rG9cRYqHIwTc7-bR2qCIEg
