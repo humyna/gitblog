@@ -2,11 +2,11 @@
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [OpenAI 的 RLHF 算法和 DeepSeek 的 GRPO 算法对比](https://github.com/humyna/gitblog/issues/35)--2025-02-12
 - [DeepSeek-R1模型是如何训练的？](https://github.com/humyna/gitblog/issues/34)--2025-02-12
 - [MyBatis-Plus 查询条件组装的多种实现方式](https://github.com/humyna/gitblog/issues/33)--2025-02-12
 - [理解 HTTP 请求方法及参数处理](https://github.com/humyna/gitblog/issues/32)--2024-10-10
 - [如何理解Java中的Stream？](https://github.com/humyna/gitblog/issues/31)--2024-09-25
-- [三维计算机视觉的前沿技术](https://github.com/humyna/gitblog/issues/30)--2024-07-08
 ## 概念
 - [理解 HTTP 请求方法及参数处理](https://github.com/humyna/gitblog/issues/32)--2024-10-10
 - [如何理解Java中的Stream？](https://github.com/humyna/gitblog/issues/31)--2024-09-25
@@ -16,13 +16,14 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [20240330-earthworm第50课打卡](https://github.com/humyna/gitblog/issues/25)--2024-03-30
 - [如何使用Github Issues搭建个人博客？](https://github.com/humyna/gitblog/issues/1)--2024-02-01
 ## AI
+- [OpenAI 的 RLHF 算法和 DeepSeek 的 GRPO 算法对比](https://github.com/humyna/gitblog/issues/35)--2025-02-12
 - [DeepSeek-R1模型是如何训练的？](https://github.com/humyna/gitblog/issues/34)--2025-02-12
 - [三维计算机视觉的前沿技术](https://github.com/humyna/gitblog/issues/30)--2024-07-08
 - [充分条件、必要条件和充分必要条件](https://github.com/humyna/gitblog/issues/29)--2024-06-16
 - [AI Agent 实际落地的两个瓶颈](https://github.com/humyna/gitblog/issues/23)--2024-03-29
-- [AI Agent 在开发领域中的使用](https://github.com/humyna/gitblog/issues/22)--2024-03-28
 <details><summary>显示更多</summary>
 
+- [AI Agent 在开发领域中的使用](https://github.com/humyna/gitblog/issues/22)--2024-03-28
 - [AI Agent目前的局限以及商业方向](https://github.com/humyna/gitblog/issues/21)--2024-03-28
 - [LangChain 框架核心组件概览](https://github.com/humyna/gitblog/issues/20)--2024-03-28
 - [AI Agent 开发框架 ModelScope-Agent](https://github.com/humyna/gitblog/issues/19)--2024-03-28
