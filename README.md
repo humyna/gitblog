@@ -2,11 +2,11 @@
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [MyBatis-Plus 查询条件组装的多种实现方式](https://github.com/humyna/gitblog/issues/33)--2025-02-12
 - [理解 HTTP 请求方法及参数处理](https://github.com/humyna/gitblog/issues/32)--2024-10-10
 - [如何理解Java中的Stream？](https://github.com/humyna/gitblog/issues/31)--2024-09-25
 - [三维计算机视觉的前沿技术](https://github.com/humyna/gitblog/issues/30)--2024-07-08
 - [充分条件、必要条件和充分必要条件](https://github.com/humyna/gitblog/issues/29)--2024-06-16
-- [202405阅读笔记](https://github.com/humyna/gitblog/issues/28)--2024-05-22
 ## 概念
 - [理解 HTTP 请求方法及参数处理](https://github.com/humyna/gitblog/issues/32)--2024-10-10
 - [如何理解Java中的Stream？](https://github.com/humyna/gitblog/issues/31)--2024-09-25
@@ -49,6 +49,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [常用开发工具](https://github.com/humyna/gitblog/issues/6)--2024-02-19
 - [开源软件](https://github.com/humyna/gitblog/issues/5)--2024-02-18
 ## 开发笔记
+- [MyBatis-Plus 查询条件组装的多种实现方式](https://github.com/humyna/gitblog/issues/33)--2025-02-12
 - [[代码重构]使用Java多态和泛型重构一个业务场景的实现](https://github.com/humyna/gitblog/issues/26)--2024-04-28
 - [开发笔记-QA机器人接入AI助手总结](https://github.com/humyna/gitblog/issues/17)--2024-03-21
 ## 生活
