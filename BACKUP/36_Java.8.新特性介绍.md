@@ -1,5 +1,7 @@
 # [Java 8 新特性介绍](https://github.com/humyna/gitblog/issues/36)
 
+by AI
+
 Java 8 是一个重要的版本，引入了许多新的特性和改进，极大地增强了Java语言和平台的功能。以下是其主要特性的介绍。
 
 
