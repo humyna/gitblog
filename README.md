@@ -2,19 +2,20 @@
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [Java 内存模型（JMM）详解及同步机制](https://github.com/humyna/gitblog/issues/39)--2025-02-17
 - [一文掌握Java 8 新特性之接口默认方法（Default Methods）](https://github.com/humyna/gitblog/issues/38)--2025-02-17
 - [Java 8 为什么会引入Lambda 表达式？](https://github.com/humyna/gitblog/issues/37)--2025-02-17
 - [Java 8 新特性介绍](https://github.com/humyna/gitblog/issues/36)--2025-02-17
 - [OpenAI 的 RLHF 算法和 DeepSeek 的 GRPO 算法对比](https://github.com/humyna/gitblog/issues/35)--2025-02-12
-- [DeepSeek-R1模型是如何训练的？](https://github.com/humyna/gitblog/issues/34)--2025-02-12
 ## 概念
+- [Java 内存模型（JMM）详解及同步机制](https://github.com/humyna/gitblog/issues/39)--2025-02-17
 - [一文掌握Java 8 新特性之接口默认方法（Default Methods）](https://github.com/humyna/gitblog/issues/38)--2025-02-17
 - [Java 8 为什么会引入Lambda 表达式？](https://github.com/humyna/gitblog/issues/37)--2025-02-17
 - [Java 8 新特性介绍](https://github.com/humyna/gitblog/issues/36)--2025-02-17
 - [理解 HTTP 请求方法及参数处理](https://github.com/humyna/gitblog/issues/32)--2024-10-10
-- [如何理解Java中的Stream？](https://github.com/humyna/gitblog/issues/31)--2024-09-25
 <details><summary>显示更多</summary>
 
+- [如何理解Java中的Stream？](https://github.com/humyna/gitblog/issues/31)--2024-09-25
 - [充分条件、必要条件和充分必要条件](https://github.com/humyna/gitblog/issues/29)--2024-06-16
 </details>
 
