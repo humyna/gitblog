@@ -2,11 +2,11 @@
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 ## 最近更新
+- [Redis Insight Mac版配置redis sentinel步骤](https://github.com/humyna/gitblog/issues/41)--2025-02-19
 - [CAS（Compare-And-Swap）实现机制及示例](https://github.com/humyna/gitblog/issues/40)--2025-02-17
 - [Java 内存模型（JMM）详解及同步机制](https://github.com/humyna/gitblog/issues/39)--2025-02-17
 - [一文掌握Java 8 新特性之接口默认方法（Default Methods）](https://github.com/humyna/gitblog/issues/38)--2025-02-17
 - [Java 8 为什么会引入Lambda 表达式？](https://github.com/humyna/gitblog/issues/37)--2025-02-17
-- [Java 8 新特性介绍](https://github.com/humyna/gitblog/issues/36)--2025-02-17
 ## 概念
 - [CAS（Compare-And-Swap）实现机制及示例](https://github.com/humyna/gitblog/issues/40)--2025-02-17
 - [Java 内存模型（JMM）详解及同步机制](https://github.com/humyna/gitblog/issues/39)--2025-02-17
@@ -56,6 +56,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [GPTCache 的工作原理](https://github.com/humyna/gitblog/issues/16)--2024-03-21
 - [如何使用EP提高英语能力？](https://github.com/humyna/gitblog/issues/15)--2024-03-20
 ## 工具
+- [Redis Insight Mac版配置redis sentinel步骤](https://github.com/humyna/gitblog/issues/41)--2025-02-19
 - [使用Mac的【照片】app管理iPhone照片](https://github.com/humyna/gitblog/issues/11)--2024-02-28
 - [常用开发工具](https://github.com/humyna/gitblog/issues/6)--2024-02-19
 - [开源软件](https://github.com/humyna/gitblog/issues/5)--2024-02-18
